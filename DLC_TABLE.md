@@ -32,5 +32,5 @@
 | Iberia | iberia | dlc_iberia |
 | Heart of Russia (not released) | mother_russia | ? |
 | West Balkans | west_balkans | dlc_balkan_w |
-| Greece (not released) | greece | ? |
+| Greece | greece | dlc_greece |
 | Nordic Horizons (not released) | nordic_horizons | ? |

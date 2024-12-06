@@ -2,6 +2,7 @@
     "base" : [
         "aberdeen",
         "berlin",
+        "bern",
         "bialystok",
         "birmingham",
         "bremen",
@@ -12,6 +13,7 @@
         "dortmund",
         "dover",
         "dresden",
+        "dusseldorf",
         "edinburgh",
         "frankfurt",
         "glasgow",
@@ -135,5 +137,11 @@
         "skopje",
         "tirana",
         "zagreb"
+    ],
+    "greece" : [
+        "athens",
+        "kalamata",
+        "patras",
+        "thessaloniki"
     ]
 }

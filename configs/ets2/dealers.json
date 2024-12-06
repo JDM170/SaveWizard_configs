@@ -12,6 +12,7 @@
         "cardiff",
         "dortmund",
         "dresden",
+        "duisburg",
         "dusseldorf",
         "edinburgh",
         "felixstowe",
@@ -145,5 +146,12 @@
         "tirana",
         "tuzla",
         "zagreb"
+    ],
+    "greece" : [
+        "ioannina",
+        "kalamata",
+        "lamia",
+        "patras",
+        "thessaloniki"
     ]
 }
