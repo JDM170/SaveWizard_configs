@@ -16,7 +16,7 @@
 | Kansas | kansas | dlc_ks |
 | Nebraska | nebraska | dlc_ne |
 | Arkansas | arkansas | dlc_ar |
-| Missouri (not released) | missouri | ? |
+| Missouri | missouri | dlc_mo |
 | Iowa (not released) | iowa | ? |
 
 # Euro Truck Simulator 2 DLC table

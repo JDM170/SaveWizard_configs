@@ -123,5 +123,14 @@
         "jonesboro",
         "little_rock",
         "springdale"
+    ],
+    "missouri" : [
+        "cape_girarde",
+        "columbia",
+        "joplin",
+        "kirksville",
+        "springfield",
+        "st_joseph",
+        "st_louis"
     ]
 }

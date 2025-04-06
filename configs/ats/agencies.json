@@ -9,9 +9,10 @@
         "oxnard",
         "redding",
         "san_diego",
-        "san_rafael",
         "san_francisc",
+        "san_rafael",
         "santa_cruz",
+        "santa_maria",
         "stockton"
     ],
     "arizona" : [
@@ -96,5 +97,10 @@
         "little_rock",
         "pine_bluff",
         "texarkana_ar"
+    ],
+    "missouri" : [
+        "columbia",
+        "springfield",
+        "st_louis"
     ]
 }

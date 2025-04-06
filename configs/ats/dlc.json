@@ -4,7 +4,7 @@
     "oregon" : "company.volatile.aport_pcc.portland",
     "washington" : "company.volatile.port_sea.seattle",
     "utah" : "company.volatile.cm_min_qryp.moab",
-    "idaho" : "company.volatile.du_farm.nampa",
+    "idaho" : "company.volatile.ai_car_whs.lewiston",
     "colorado" : "company.volatile.aport_den.denver",
     "wyoming" : "company.volatile.aml_rail_str.cheyenne",
     "montana" : "company.volatile.aport_gtf.great_falls",
@@ -12,5 +12,6 @@
     "oklahoma" : "company.volatile.aport_tul.tulsa",
     "kansas" : "company.volatile.ai_car_whs.junction_cty",
     "nebraska" : "company.volatile.nls_rd_grg.columbus",
-    "arkansas" : "company.volatile.aport_lit.little_rock"
+    "arkansas" : "company.volatile.aport_lit.little_rock",
+    "missouri" : "company.volatile.ai_car_pln.columbia"
 }
