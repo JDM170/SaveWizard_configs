@@ -102,5 +102,10 @@
         "columbia",
         "springfield",
         "st_louis"
+    ],
+    "iowa" : [
+        "davenport",
+        "des_moines",
+        "dubuque"
     ]
 }

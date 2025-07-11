@@ -13,5 +13,6 @@
     "kansas" : "company.volatile.ai_car_whs.junction_cty",
     "nebraska" : "company.volatile.nls_rd_grg.columbus",
     "arkansas" : "company.volatile.aport_lit.little_rock",
-    "missouri" : "company.volatile.ai_car_pln.columbia"
+    "missouri" : "company.volatile.ai_car_pln.columbia",
+    "iowa" : "company.volatile.aport_cid.cedar_rapids"
 }

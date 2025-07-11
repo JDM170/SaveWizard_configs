@@ -132,5 +132,13 @@
         "springfield",
         "st_joseph",
         "st_louis"
+    ],
+    "iowa" : [
+        "burlingto_ia",
+        "cedar_rapids",
+        "des_moines",
+        "dubuque",
+        "mason_city",
+        "sioux_city"
     ]
 }
