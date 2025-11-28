@@ -21,6 +21,7 @@
 | Louisiana (not released) | louisiana | ? |
 | Illinois (not released) | illinois | ? |
 | South Dakota (not released) | south_dakota | ? |
+| British Columbia (not released) | south_dakota | ? |
 
 # Euro Truck Simulator 2 DLC table
 
@@ -36,5 +37,6 @@
 | Heart of Russia (not released) | mother_russia | ? |
 | West Balkans | west_balkans | dlc_balkan_w |
 | Greece | greece | dlc_greece |
-| Nordic Horizons (not released) | nordic_horizons | ? |
+| Nordic Horizons | nordic_horizons | dlc_polar |
 | Iceland (not released) | iceland | ? |
+| Isle of Ireland (not released) | ireland | ? |

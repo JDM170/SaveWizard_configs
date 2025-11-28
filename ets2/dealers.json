@@ -153,5 +153,18 @@
         "lamia",
         "patras",
         "thessaloniki"
+    ],
+    "nordic_horizons" : [
+        "alesund",
+        "joensuu",
+        "kokkola",
+        "kuopio",
+        "lillehammer",
+        "lulea",
+        "narvik",
+        "oulu",
+        "rovaniemi",
+        "trondheim",
+        "borlange"
     ]
 }

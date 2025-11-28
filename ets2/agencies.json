@@ -61,8 +61,10 @@
     ],
     "scandinavia" : [
         "aalborg",
+        "aarhus",
         "bergen",
         "helsingborg",
+        "jonkoping",
         "kobenhavn",
         "malmo",
         "odense",
@@ -143,5 +145,16 @@
         "kalamata",
         "patras",
         "thessaloniki"
+    ],
+    "nordic_horizons" : [
+        "bodo",
+        "kiruna",
+        "kuopio",
+        "oulu",
+        "rovaniemi",
+        "skelleftea",
+        "tromso",
+        "trondheim",
+        "sundsvall"
     ]
 }
