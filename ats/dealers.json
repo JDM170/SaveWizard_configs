@@ -140,5 +140,11 @@
         "dubuque",
         "mason_city",
         "sioux_city"
+    ],
+    "louisiana" : [
+        "baton_rouge",
+        "houma",
+        "lake_charles",
+        "new_orleans"
     ]
 }

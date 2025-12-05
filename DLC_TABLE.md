@@ -18,7 +18,7 @@
 | Arkansas | arkansas | dlc_ar |
 | Missouri | missouri | dlc_mo |
 | Iowa | iowa | dlc_ia |
-| Louisiana (not released) | louisiana | ? |
+| Louisiana | louisiana | dlc_la |
 | Illinois (not released) | illinois | ? |
 | South Dakota (not released) | south_dakota | ? |
 | British Columbia (not released) | british_columbia | ? |
