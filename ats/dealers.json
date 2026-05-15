@@ -17,6 +17,7 @@
     ],
     "arizona" : [
         "flagstaff",
+        "kingman",
         "phoenix",
         "tucson",
         "yuma"
@@ -146,5 +147,14 @@
         "houma",
         "lake_charles",
         "new_orleans"
+    ],
+    "illinois" : [
+        "bloomington",
+        "chicago",
+        "east_st_loui",
+        "effingham",
+        "peoria",
+        "rockford",
+        "springfie_il"
     ]
 }

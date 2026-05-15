@@ -21,6 +21,7 @@
         "tucson"
     ],
     "new_mexico" : [
+        "albuquerque",
         "carlsbad_nm",
         "farmington",
         "roswell",
@@ -110,5 +111,13 @@
     ],
     "louisiana" : [
         "houma"
+    ],
+    "illinois" : [
+        "bloomington",
+        "chicago",
+        "east_st_loui",
+        "effingham",
+        "marion",
+        "rockford"
     ]
 }

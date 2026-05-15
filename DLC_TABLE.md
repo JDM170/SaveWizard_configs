@@ -19,7 +19,7 @@
 | Missouri | missouri | dlc_mo |
 | Iowa | iowa | dlc_ia |
 | Louisiana | louisiana | dlc_la |
-| Illinois (not released) | illinois | ? |
+| Illinois | illinois | dlc_il |
 | South Dakota (not released) | south_dakota | ? |
 | British Columbia (not released) | british_columbia | ? |
 
@@ -40,3 +40,4 @@
 | Nordic Horizons | nordic_horizons | dlc_polar |
 | Iceland (not released) | iceland | ? |
 | Isle of Ireland (not released) | ireland | ? |
+| Soul of Anatolia (not released) | anatolia | ? |
