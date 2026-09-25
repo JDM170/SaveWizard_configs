@@ -119,5 +119,10 @@
         "effingham",
         "marion",
         "rockford"
+    ],
+    "south_dakota" : [
+        "pierre",
+        "rapid_city",
+        "sioux_falls"
     ]
 }

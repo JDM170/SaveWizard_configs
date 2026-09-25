@@ -156,5 +156,13 @@
         "peoria",
         "rockford",
         "springfie_il"
+    ],
+    "south_dakota" : [
+        "aberdeen_sd",
+        "brookings",
+        "fort_pierre",
+        "rapid_city",
+        "sioux_falls",
+        "watertown"
     ]
 }

@@ -20,7 +20,7 @@
 | Iowa | iowa | dlc_ia |
 | Louisiana | louisiana | dlc_la |
 | Illinois | illinois | dlc_il |
-| South Dakota (not released) | south_dakota | ? |
+| South Dakota | south_dakota | dlc_sd |
 | British Columbia (not released) | british_columbia | ? |
 
 # Euro Truck Simulator 2 DLC table

@@ -16,5 +16,6 @@
     "missouri" : "company.volatile.ai_car_pln.columbia",
     "iowa" : "company.volatile.aport_cid.cedar_rapids",
     "louisiana" : "company.volatile.apx_met_whs.houma",
-    "illinois" : "company.volatile.aport_ord.chicago"
+    "illinois" : "company.volatile.aport_ord.chicago",
+    "south_dakota" : "company.volatile.aport_pir.pierre"
 }
