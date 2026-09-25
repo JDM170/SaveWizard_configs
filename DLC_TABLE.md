@@ -22,6 +22,7 @@
 | Illinois | illinois | dlc_il |
 | South Dakota | south_dakota | dlc_sd |
 | British Columbia (not released) | british_columbia | ? |
+| North Dakota (not released) | north_dakota | ? |
 
 # Euro Truck Simulator 2 DLC table
 
