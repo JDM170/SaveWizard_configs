@@ -39,6 +39,6 @@
 | West Balkans | west_balkans | dlc_balkan_w |
 | Greece | greece | dlc_greece |
 | Nordic Horizons | nordic_horizons | dlc_polar |
-| Iceland (not released) | iceland | ? |
+| Iceland | iceland | dlc_iceland |
 | Isle of Ireland (not released) | ireland | ? |
 | Soul of Anatolia (not released) | anatolia | ? |

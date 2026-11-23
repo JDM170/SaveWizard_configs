@@ -1,6 +1,7 @@
 {
     "base" : [
         "aberdeen",
+        "antwerp",
         "berlin",
         "bern",
         "bialystok",
@@ -156,5 +157,8 @@
         "tromso",
         "trondheim",
         "sundsvall"
+    ],
+    "iceland" : [
+        "reykjavik"
     ]
 }

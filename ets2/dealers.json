@@ -166,5 +166,8 @@
         "rovaniemi",
         "trondheim",
         "borlange"
+    ],
+    "iceland" : [
+        "reykjavik"
     ]
 }

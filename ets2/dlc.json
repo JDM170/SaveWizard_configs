@@ -8,5 +8,6 @@
     "iberia" : "company.volatile.tdc_auto.vigo",
     "west_balkans" : "company.volatile.adrica.rijeka",
     "greece" : "company.volatile.artemia.argostoli",
-    "nordic_horizons" : "company.volatile.bjork_hrv.falun"
+    "nordic_horizons" : "company.volatile.bjork_hrv.falun",
+    "iceland" : "company.volatile.blatt_voruhu.blonduos"
 }
